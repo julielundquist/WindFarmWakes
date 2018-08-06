@@ -1,0 +1,101 @@
+Unique ID,Site Name,Online Year,Turbine Manufacturer,Turbine Model,Tower Type,Turbine MW,Total Height,Tower/Hub Height,Blade Length,Rotor Diameter,Rotor Swept Area,Latitude-Decimal Degrees,Longitude-Decimal Degrees,State,County,Attribute Confidence,Location Confidence,WENDI Site Name,EIA Site Name,FAA-JDATE,FAA-AGL,FAA-ORS,Image Source Name,Image Source Year,Comments
+31785,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4098,-100.6821,TX,Mitchell,2,2,unknown,unknown,2009348,122,48-023733,NAIP,2012, 
+31787,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4105,-100.6791,TX,Mitchell,2,2,unknown,unknown,2009348,122,48-023734,NAIP,2012, 
+31792,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4108,-100.6696,TX,Mitchell,2,2,unknown,unknown,2009348,122,48-023735,NAIP,2012, 
+31793,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4108,-100.6723,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023807,NAIP,2012, 
+31797,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4121,-100.6661,TX,Mitchell,2,2,unknown,unknown,2010020,122,48-023921,NAIP,2012,Turbine model based on AGL
+31799,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4128,-100.6631,TX,Mitchell,2,2,unknown,unknown,2012090,122,48-023922,NAIP,2012,Turbine model based on AGL
+31812,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4158,-100.668,TX,Mitchell,2,2,unknown,unknown,2009348,122,48-023732,NAIP,2012, 
+31824,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4186,-100.6846,TX,Mitchell,2,2,unknown,unknown,2009335,122,48-023707,NAIP,2012, 
+31825,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4187,-100.6819,TX,Mitchell,2,2,unknown,unknown,2009335,122,48-023708,NAIP,2012, 
+31826,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4188,-100.6793,TX,Mitchell,2,2,unknown,unknown,2009335,122,48-023726,NAIP,2012, 
+31827,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4189,-100.6766,TX,Mitchell,2,2,unknown,unknown,2009335,122,48-023727,NAIP,2012, 
+31829,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4191,-100.6654,TX,Mitchell,2,2,unknown,unknown,2009348,122,48-023730,NAIP,2012, 
+31830,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4191,-100.6739,TX,Mitchell,2,2,unknown,unknown,2009335,122,48-023728,NAIP,2012, 
+31834,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4199,-100.6622,TX,Mitchell,2,2,unknown,unknown,2009348,122,48-023731,NAIP,2012, 
+31848,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.421,-100.6706,TX,Mitchell,2,2,unknown,unknown,2009335,122,48-023729,NAIP,2012, 
+31855,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4251,-100.6753,TX,Mitchell,2,2,unknown,unknown,2011194,122,48-024865,NAIP,2012,Turbine model based on AGL
+31856,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4258,-100.6683,TX,Mitchell,2,2,unknown,unknown,2011188,122,48-024864,NAIP,2012,Turbine model based on AGL
+31857,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4261,-100.6656,TX,Mitchell,2,2,unknown,unknown,2011192,122,48-024862,NAIP,2012,Turbine model based on AGL
+31861,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4266,-100.6625,TX,Mitchell,2,2,unknown,unknown,2011188,122,48-024861,NAIP,2012,Turbine model based on AGL
+31871,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4284,-100.7567,TX,Mitchell,2,2,unknown,unknown,2009351,122,48-023803,NAIP,2012, 
+31880,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4291,-100.7534,TX,Mitchell,2,2,unknown,unknown,2009351,122,48-023804,NAIP,2012, 
+31887,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4293,-100.6882,TX,Mitchell,2,2,unknown,unknown,2011193,122,48-024870,NAIP,2012,Turbine model based on AGL
+31888,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4294,-100.75,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023809,NAIP,2012, 
+31890,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4299,-100.6853,TX,Mitchell,2,2,unknown,unknown,2011193,122,48-024869,NAIP,2012,Turbine model based on AGL
+31891,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.43,-100.7467,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023808,NAIP,2012, 
+31898,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.431,-100.6825,TX,Mitchell,2,2,unknown,unknown,2011193,122,48-024868,NAIP,2012,Turbine model based on AGL
+31913,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4335,-100.6792,TX,Mitchell,2,2,unknown,unknown,2011193,122,48-024867,NAIP,2012,Turbine model based on AGL
+31916,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.434,-100.6763,TX,Mitchell,2,2,unknown,unknown,2011193,122,48-024866,NAIP,2012,Turbine model based on AGL
+31922,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4355,-100.7514,TX,Mitchell,2,2,unknown,unknown,2009351,122,48-023801,NAIP,2012, 
+31924,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4358,-100.7482,TX,Mitchell,2,2,unknown,unknown,2009351,122,48-023802,NAIP,2012, 
+31928,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4371,-100.7068,TX,Mitchell,2,2,unknown,unknown,2011173,122,48-024834,NAIP,2012,Turbine model based on AGL
+31930,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4374,-100.7678,TX,Mitchell,2,2,unknown,unknown,2009335,122,48-023706,NAIP,2012, 
+31939,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.438,-100.7649,TX,Mitchell,2,2,unknown,unknown,2009350,122,48-023795,NAIP,2012, 
+31948,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4385,-100.7619,TX,Mitchell,2,2,unknown,unknown,2009350,122,48-023796,NAIP,2012, 
+31950,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4392,-100.7586,TX,Mitchell,2,2,unknown,unknown,2009351,122,48-023797,NAIP,2012, 
+31951,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4392,-100.687,TX,Mitchell,2,2,unknown,unknown,2011173,122,48-024832,NAIP,2012,Turbine model based on AGL
+31953,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4396,-100.6842,TX,Mitchell,2,2,unknown,unknown,2011173,122,48-024830,NAIP,2012,Turbine model based on AGL
+31955,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.44,-100.6815,TX,Mitchell,2,2,unknown,unknown,2011174,122,48-024829,NAIP,2012,Turbine model based on AGL
+31959,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4405,-100.6785,TX,Mitchell,2,2,unknown,unknown,2011133,122,48-024828,NAIP,2012,Turbine model based on AGL
+31960,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4409,-100.6699,TX,Mitchell,2,2,unknown,unknown,2011124,122,48-024822,NAIP,2012,Turbine model based on AGL
+31962,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.441,-100.6756,TX,Mitchell,2,2,unknown,unknown,2011129,122,48-024827,NAIP,2012,Turbine model based on AGL
+31964,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4416,-100.6727,TX,Mitchell,2,2,unknown,unknown,2011124,122,48-024824,NAIP,2012,Turbine model based on AGL
+31967,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4418,-100.7566,TX,Mitchell,2,2,unknown,unknown,2009351,122,48-023798,NAIP,2012, 
+31971,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4429,-100.7533,TX,Mitchell,2,2,unknown,unknown,2009351,122,48-023799,NAIP,2012, 
+31975,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4436,-100.7497,TX,Mitchell,2,2,unknown,unknown,2009351,122,48-023800,NAIP,2012, 
+31977,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4441,-100.7775,TX,Mitchell,2,2,unknown,unknown,2009334,122,48-023702,NAIP,2012, 
+31978,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4443,-100.7747,TX,Mitchell,2,2,unknown,unknown,2009334,122,48-023703,NAIP,2012, 
+31979,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4443,-100.7714,TX,Mitchell,2,2,unknown,unknown,2009334,122,48-023704,NAIP,2012, 
+31988,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4448,-100.7806,TX,Mitchell,2,2,unknown,unknown,2010069,122,48-023701,NAIP,2012,Turbine model based on AGL
+31991,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4451,-100.7688,TX,Mitchell,2,2,unknown,unknown,2009334,122,48-023705,NAIP,2012, 
+32051,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4567,-100.6779,TX,Mitchell,2,2,unknown,unknown,2011180,122,48-024840,NAIP,2012,Turbine model based on AGL
+32056,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4575,-100.675,TX,Mitchell,2,2,unknown,unknown,2011180,122,48-024839,NAIP,2012,Turbine model based on AGL
+32064,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4594,-100.6869,TX,Mitchell,2,2,unknown,unknown,2011172,122,48-024842,NAIP,2012,Turbine model based on AGL
+32068,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4601,-100.6684,TX,Mitchell,2,2,unknown,unknown,2011173,122,48-024836,NAIP,2012,Turbine model based on AGL
+32070,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4599,-100.684,TX,Mitchell,2,2,unknown,unknown,2011188,122,48-024841,NAIP,2012,Turbine model based on AGL
+32071,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4601,-100.672,TX,Mitchell,2,2,unknown,unknown,2011180,122,48-024838,NAIP,2012,Turbine model based on AGL
+32075,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4612,-100.666,TX,Mitchell,2,2,unknown,unknown,2011188,122,48-024860,NAIP,2012,Turbine model based on AGL
+32076,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4624,-100.7671,TX,Mitchell,2,2,unknown,unknown,2009364,122,48-023839,NAIP,2012, 
+32079,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4623,-100.7642,TX,Mitchell,2,2,unknown,unknown,2009364,122,48-023840,NAIP,2012, 
+32081,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4625,-100.7613,TX,Mitchell,2,2,unknown,unknown,2009364,122,48-023845,NAIP,2012, 
+32082,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4629,-100.7581,TX,Mitchell,2,2,unknown,unknown,2009364,122,48-023846,NAIP,2012, 
+32088,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4652,-100.6989,TX,Mitchell,2,2,unknown,unknown,2011083,122,48-024766,NAIP,2012,Turbine model based on AGL
+32089,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4654,-100.6815,TX,Mitchell,2,2,unknown,unknown,2011111,122,48-024758,NAIP,2012,Turbine model based on AGL
+32091,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4657,-100.6782,TX,Mitchell,2,2,unknown,unknown,2011124,122,48-024759,NAIP,2012,Turbine model based on AGL
+32092,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4658,-100.6954,TX,Mitchell,2,2,unknown,unknown,2011266,122,48-024765,NAIP,2012,Turbine model based on AGL
+32095,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4662,-100.6907,TX,Mitchell,2,2,unknown,unknown,2011101,122,48-024764,NAIP,2012,Turbine model based on AGL
+32096,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4664,-100.6754,TX,Mitchell,2,2,unknown,unknown,2011111,122,48-024760,NAIP,2012,Turbine model based on AGL
+32099,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4671,-100.6725,TX,Mitchell,2,2,unknown,unknown,2011124,122,48-024761,NAIP,2012,Turbine model based on AGL
+32100,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4673,-100.6867,TX,Mitchell,2,2,unknown,unknown,2011124,122,48-024763,NAIP,2012,Turbine model based on AGL
+32101,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4676,-100.6697,TX,Mitchell,2,2,unknown,unknown,2011124,122,48-024762,NAIP,2012,Turbine model based on AGL
+32104,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4685,-100.7578,TX,Mitchell,2,2,unknown,unknown,2009363,122,48-023864,NAIP,2012, 
+32105,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4691,-100.7605,TX,Mitchell,2,2,unknown,unknown,2009363,122,48-023862,NAIP,2012, 
+32109,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4699,-100.7789,TX,Mitchell,2,2,unknown,unknown,2009365,122,48-023848,NAIP,2012, 
+32111,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4702,-100.763,TX,Mitchell,2,2,unknown,unknown,2009363,122,48-023860,NAIP,2012, 
+32112,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4704,-100.7765,TX,Mitchell,2,2,unknown,unknown,2009365,122,48-023849,NAIP,2012, 
+32114,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4709,-100.7656,TX,Mitchell,2,2,unknown,unknown,2009363,122,48-023859,NAIP,2012, 
+32116,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4708,-100.774,TX,Mitchell,2,2,unknown,unknown,2009365,122,48-023850,NAIP,2012, 
+32117,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4717,-100.768,TX,Mitchell,2,2,unknown,unknown,2009365,122,48-023852,NAIP,2012, 
+32118,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4717,-100.7456,TX,Mitchell,2,2,unknown,unknown,2009363,122,48-023866,NAIP,2012, 
+32120,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4719,-100.7705,TX,Mitchell,2,2,unknown,unknown,2009365,122,48-023851,NAIP,2012, 
+32123,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.472,-100.7399,TX,Mitchell,2,2,unknown,unknown,2009364,122,48-023835,NAIP,2012, 
+32125,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4727,-100.7426,TX,Mitchell,2,2,unknown,unknown,2009363,122,48-023834,NAIP,2012, 
+32127,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.473,-100.7357,TX,Mitchell,2,2,unknown,unknown,2009364,122,48-023837,NAIP,2012, 
+32130,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4736,-100.7329,TX,Mitchell,2,2,unknown,unknown,2009364,122,48-023838,NAIP,2012, 
+32147,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4804,-100.7248,TX,Mitchell,2,2,unknown,unknown,2009363,122,48-023833,NAIP,2012, 
+32151,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4805,-100.7278,TX,Mitchell,2,2,unknown,unknown,2009363,122,48-023831,NAIP,2012, 
+32153,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4807,-100.7304,TX,Mitchell,2,2,unknown,unknown,2009363,122,48-023829,NAIP,2012, 
+32155,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4809,-100.734,TX,Mitchell,2,2,unknown,unknown,2009363,122,48-023828,NAIP,2012, 
+32157,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4812,-100.749,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023810,NAIP,2012, 
+32158,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4815,-100.7453,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023819,NAIP,2012, 
+32160,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4818,-100.7427,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023820,NAIP,2012, 
+32169,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.483,-100.7782,TX,Mitchell,2,2,unknown,unknown,2009351,122,48-023806,NAIP,2012, 
+32171,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4833,-100.7369,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023821,NAIP,2012, 
+32173,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4837,-100.763,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023816,NAIP,2012, 
+32177,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4839,-100.7667,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023817,NAIP,2012, 
+32178,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4841,-100.7697,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023818,NAIP,2012, 
+32179,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4842,-100.7731,TX,Mitchell,2,2,unknown,unknown,2009351,122,48-023805,NAIP,2012, 
+32182,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.485,-100.7524,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023811,NAIP,2012, 
+32185,Loraine Wind Park,2009,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4851,-100.7557,TX,Mitchell,2,2,unknown,unknown,2009349,122,48-023812,NAIP,2012, 
+32785,Loraine Wind Park,2010_2011,GE,1.5XLE,monopole,1.5,121.25,80,41.25,82.5,5345.61,32.4741,-100.7301,TX,Mitchell,2,2,unknown,unknown,2013029,122,48-027494,NAIP,2012, 
